@@ -15,8 +15,8 @@ Another improvement for receipt organization by categories it can be the presenc
 In this project I will follow the **Prototype** pattern and best practices, in particular I will adopt the Guthub blackborad kaban cards to take 
 track of the project evolvement, track and issues.
 
-The applied branching strategy of _prototype-oriented_ and _evolutionary-prototyping_ type. So I have a branch for every single task and the main/static branches are `master`, `doc`, `dev` and `ui` following
-the standards that we can find in any enterprise working environment.
+I applied the standards that we can find in any enterprise working environment. I used the branching strategy of _prototype-oriented_ and _evolutionary-prototyping_ type. So I have a branch for every single task.
+The main/static branches are `master`, `doc`, `dev` and `ui`.
 Finally any merge will be made by a /pull request/.
 
 ## Naming conventions and best practices
