@@ -15,7 +15,7 @@ Another improvement for receipt organization by categories it can be the presenc
 In this project I will follow the **Prototype** pattern and best practices, in particular I will adopt the Guthub blackborad kaban cards to take 
 track of the project evolvement, track and issues.
 
-The applied branching strategy is feature-oriented so we have a branch for every single task and the main/static branches are `master`, `dev` and `ui` following
+The applied branching strategy of _prototype-oriented_ and _evolutionary-prototyping_ type. So I have a branch for every single task and the main/static branches are `master`, `doc`, `dev` and `ui` following
 the standards that we can find in any enterprise working environment.
 Finally any merge will be made by a /pull request/.
 
@@ -29,3 +29,17 @@ We adopt:
   accordingly with the native project setup.
 
 I will try to split the script on multiple files and use the object oriented paradigm, where possible.
+
+## Credits & Resources
+
+I mainly took insiration from from the following _back-end open-source design-systems_ and _front-end component library_ to build a high-quality digital experience:
+
+### Bootstrap
+- [Bootstrap Cards](https://getbootstrap.com/docs/4.3/components/card/)
+
+### Material design
+- [material.io](https://material.io/components/cards/)
+
+Every assets and open-source code templates found on the front-end & back-end systems were used for the code snippets and to build the _"exoskeleton"_ of the project.
+
+For the `Fonts` I used the [Google Fonts](https://fonts.google.com/) resources.
