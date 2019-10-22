@@ -26,6 +26,12 @@ I applied the standards that we can find in any enterprise working environment. 
 The main/static branches are `master`, `doc`, `dev` and `ui`.
 Finally any merge will be made by a /pull request/.
 
+The `dev` branch will be divided in two different, parallel development branches:
+1. `/front-end`,
+2. `/back-end`
+
+This will help the developer to separate and to easily know what part of the project is used.
+
 ## Naming conventions and best practices
 
 We adopt:
