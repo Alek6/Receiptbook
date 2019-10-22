@@ -30,7 +30,7 @@ The `dev` branch will be divided in two different, parallel development branches
 1. `/front-end`,
 2. `/back-end`
 
-This will help the developer to separate and to easily know what part of the project is used
+This will help the developer to separate and to easily know what part of the project is used.
 
 ## Naming conventions and best practices
 
