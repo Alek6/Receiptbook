@@ -1,11 +1,11 @@
 # Receiptbook
 
 ## Index of contents
-- The Baseline
-- The further development and ideas
-- Branching Strategy and Prototype Pattern
-- Naming conventions and best practices
-- Credits & Resources
+> The Baseline <br>
+> The further development and ideas <br>
+> Branching Strategy and Prototype Pattern <br>
+> Naming conventions and best practices <br>
+> Credits & Resources
 
 ## The Baseline
 An organized place were to create, order, personalize and save your most important receipts of everyday-life expenses.

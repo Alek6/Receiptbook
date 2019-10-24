@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e9a8cad-dc6a-4a6d-b20b-132aa10c9e0a" name="Default Changelist" comment="Added the index of arguments contained into the documentation file README.md">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="3e9a8cad-dc6a-4a6d-b20b-132aa10c9e0a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/aleksejpetricig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +22,7 @@
   </component>
   <component name="ProjectId" id="1SYnQsF8LIDb9Af69loFBadUJlg" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
@@ -52,7 +54,16 @@
       <updated>1571749384131</updated>
       <workItem from="1571749386315" duration="520000" />
       <workItem from="1571904258538" duration="205000" />
+      <workItem from="1571904490460" duration="874000" />
     </task>
+    <task id="LOCAL-00001" summary="Moved '.gitignore' file outside the '.idea' folder in order to share the ignore rules with any other users that clone the repository.">
+      <created>1571904811444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571904811444</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Moved '.gitignore' file outside the '.idea' folder in order to share the ignore rules with any other users that clone the repository." />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved '.gitignore' file outside the '.idea' folder in order to share the ignore rules with any other users that clone the repository." />
   </component>
 </project>
