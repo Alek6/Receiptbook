@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e9a8cad-dc6a-4a6d-b20b-132aa10c9e0a" name="Default Changelist" comment="Added the index of arguments contained into the documentation file README.md" />
+    <list default="true" id="3e9a8cad-dc6a-4a6d-b20b-132aa10c9e0a" name="Default Changelist" comment="Added the index of arguments contained into the documentation file README.md">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +22,11 @@
   <component name="ProjectId" id="1SYnQsF8LIDb9Af69loFBadUJlg" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571749384131</updated>
       <workItem from="1571749386315" duration="520000" />
+      <workItem from="1571904258538" duration="205000" />
     </task>
     <servers />
   </component>
@@ -54,7 +63,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
