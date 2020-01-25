@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e9a8cad-dc6a-4a6d-b20b-132aa10c9e0a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,7 @@
       <workItem from="1571904258538" duration="205000" />
       <workItem from="1571904490460" duration="874000" />
       <workItem from="1579957287313" duration="33000" />
-      <workItem from="1579957344911" duration="3472000" />
+      <workItem from="1579957344911" duration="3744000" />
     </task>
     <task id="LOCAL-00001" summary="Moved '.gitignore' file outside the '.idea' folder in order to share the ignore rules with any other users that clone the repository.">
       <created>1571904811444</created>
@@ -124,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579967703352</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Import the React &amp; React-DOM libraries in the project.">
+      <created>1579968178981</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579968178981</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Install the External libraries React &amp; React-DOM.">
+      <created>1579968307226</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579968307226</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,14 +168,16 @@
     <MESSAGE value="Added the Bootstrap library to the project repository." />
     <MESSAGE value="Added 'doc' and 'src' directories to the project repository." />
     <MESSAGE value="Setup the 'index.html' file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Setup the 'index.html' file." />
+    <MESSAGE value="Import the React &amp; React-DOM libraries in the project." />
+    <MESSAGE value="Install the External libraries React &amp; React-DOM." />
+    <option name="LAST_COMMIT_MESSAGE" value="Install the External libraries React &amp; React-DOM." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="23" key="CommitChangelistDialog2" timestamp="1579968178857">
+    <state x="0" y="23" key="CommitChangelistDialog2" timestamp="1579968307090">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state x="0" y="23" key="CommitChangelistDialog2/0.23.1440.800@0.23.1440.800" timestamp="1579965667187" />
-    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1440.803@0.23.1440.803" timestamp="1579968178857" />
+    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1440.803@0.23.1440.803" timestamp="1579968307090" />
     <state x="320" y="160" key="Vcs.Push.Dialog.v2" timestamp="1579967706449">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
