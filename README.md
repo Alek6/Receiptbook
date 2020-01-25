@@ -45,9 +45,10 @@ I will try to split the script on multiple files and use the object oriented par
 
 ## Credits & Resources
 
-I mainly took insiration from from the following _back-end open-source design-systems_ and _front-end component library_ to build a high-quality digital experience:
+I mainly took inspiration from from the following _back-end open-source design-systems_ and _front-end component library_ to build a high-quality digital experience:
 
 ### Bootstrap
+- [Bootstrap](https://getbootstrap.com/)
 - [Bootstrap Cards](https://getbootstrap.com/docs/4.3/components/card/)
 
 ### Material design
