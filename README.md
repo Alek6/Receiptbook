@@ -19,8 +19,8 @@ the build of a well organized world of expenses receipts.
 Another improvement for receipt organization by categories it can be the presence of a left panel with the list of categories.
 
 ## Branching Strategy and Prototype Pattern
-In this project I will follow the **Prototype** pattern and best practices, in particular I will adopt the Guthub blackborad kaban cards to take 
-track of the project evolvement, track and issues.
+In this project I will follow the **Prototype** pattern and best practices, in particular I will adopt the Github blackboard kaban cards to take 
+track of the project evolution, track and issues.
 
 I applied the standards that we can find in any enterprise working environment. I used the branching strategy of _prototype-oriented_ and _evolutionary-prototyping_ type. So I have a branch for every single task.
 The main/static branches are `master`, `doc`, `dev` and `ui`.
